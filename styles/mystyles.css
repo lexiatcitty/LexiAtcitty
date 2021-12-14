@@ -1,0 +1,79 @@
+
+ header.masthead {
+     background-color:pink;
+     font-family: 'Playfair Display', serif;
+ }
+ body {
+    background-color:rosybrown;
+    -webkit-tap-highlight-color:white;
+    color:white ; 
+    font-family: 'Playfair Display', serif;
+}
+header.masthead:before {
+    background-color: white;
+}
+.navbar-light .navbar-toggler {
+    color: rosybrown;
+    border-color:rosybrown;
+}
+.fa-inverse {
+    color: white; 
+}
+a {
+    color:pink; 
+}
+.btn-primary {
+    background-color:rosybrown;
+    border-color:pink
+}
+.btn {
+    color: white; 
+     
+}
+a:hover {
+    color: pink; 
+}
+.btn:hover {
+    background-color:pink; 
+    color:white; 
+    border-color: white; 
+    border-width: 5px; 
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: pink; 
+}
+.navbar-light .navbar-nav .nav-link {
+    color:rosybrown; 
+}
+img, svg {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1, a {
+    font-family: 'Playfair Display', serif;
+}
+h2,h3,h4,h5, h6 {
+    font-family: 'Playfair Display', serif;
+}
+h4 {
+    font-family: 'Playfair Display', serif;
+}
+video {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+     
+}
+iframe.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
